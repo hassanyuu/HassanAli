@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hassanyuu-H NFT Collections</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 0; background: #0d0d0d; color: #fff; }
+  header { text-align: center; padding: 20px; background: #1a1a1a; }
+  h1 { margin: 0; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px; }
+  .card { background: #1f1f1f; border-radius: 10px; overflow: hidden; padding: 10px; }
+  .card img { width: 100%; height: 200px; object-fit: cover; border-radius: 5px; }
+  .card h2 { margin: 10px 0 5px 0; font-size: 18px; }
+  .card p { font-size: 14px; color: #ccc; }
+  .card a { display: inline-block; margin-top: 10px; padding: 8px 12px; background: #ff6f61; color: #fff; text-decoration: none; border-radius: 5px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Hassanyuu-H NFT Collections</h1>
+  <p>Explore, collect, and experience the ultimate NFT universe.</p>
+</header>
+
+<div class="grid">
+  <div class="card">
+    <img src="assets/cosmic-dynasty.png" alt="The Cosmic Dynasty">
+    <h2>The Cosmic Dynasty</h2>
+    <p>Egyptian kings reborn as cosmic digital spirits, merging history and futuristic visions.</p>
+    <a href="https://opensea.io/collection/the-cosmic-dynasty-slalt-alkwn" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/children-of-ra.png" alt="Children of Ra">
+    <h2>Children of Ra</h2>
+    <p>Ascend into the digital heavens with these radiant guardians of ancient Egyptian lore.</p>
+    <a href="https://opensea.io/collection/children-of-ra-digital-ascension" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/mystic-islands.png" alt="Mystic Islands Collection">
+    <h2>Mystic Islands Collection</h2>
+    <p>Explore mysterious islands where digital magic and ancient secrets collide.</p>
+    <a href="https://opensea.io/collection/mystic-islands-collection" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/cyber-pharaohs.png" alt="Cyber Pharaohs: Rise of the Digital Nile">
+    <h2>Cyber Pharaohs: Rise of the Digital Nile</h2>
+    <p>Witness the resurrection of pharaohs in a cybernetic Nile universe.</p>
+    <a href="https://opensea.io/collection/cyber-pharaohs-rise-of-the-digital-nile" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/scared-relics.png" alt="Scared Relics">
+    <h2>Scared Relics</h2>
+    <p>Ancient mystical artifacts brought to life in dazzling digital form.</p>
+    <a href="https://opensea.io/collection/scared-relics-alwthayq-almqdst" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/neo-kingdom.png" alt="The Neo Kingdom">
+    <h2>The Neo Kingdom</h2>
+    <p>Enter a futuristic kingdom where technology reigns supreme over ancient traditions.</p>
+    <a href="https://opensea.io/collection/the-neo-kingdom" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/digital-pharaohs.png" alt="Digital Pharaohs: Echoes of Eternity">
+    <h2>Digital Pharaohs: Echoes of Eternity</h2>
+    <p>Pharaohs' spirits echo through eternity, captured in vibrant digital art.</p>
+    <a href="https://opensea.io/collection/digital-pharaohs-echoes-of-eternity" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/celestial-seals.png" alt="The Celestial Seals">
+    <h2>The Celestial Seals</h2>
+    <p>Ancient celestial seals unlock cosmic powers in a digital Egyptian universe.</p>
+    <a href="https://opensea.io/collection/the-celestial-seals-alakhtam-alsmawyt" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/eternal-horizons.png" alt="Eternal Horizons: Egyptian Temples NFT">
+    <h2>Eternal Horizons: Egyptian Temples NFT</h2>
+    <p>Timeless temples of Egypt brought to life through AI-generated digital visions.</p>
+    <a href="https://opensea.io/collection/eternal-horizons-egyptian-temples-nft" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/cyber-reawakening.png" alt="Cyber Pharaohs: The Eternal Reawakening">
+    <h2>Cyber Pharaohs: The Eternal Reawakening</h2>
+    <p>Pharaohs awaken eternally in a cyber-future blending myth and technology.</p>
+    <a href="https://opensea.io/collection/cyber-pharaohs-the-eternal-reawakening" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/builders-of-mind.png" alt="The Builders of Mind">
+    <h2>The Builders of Mind</h2>
+    <p>Masters of thought and innovation, shaping the digital future of Egypt.</p>
+    <a href="https://opensea.io/collection/the-builders-of-mind-mhndsw-alwy" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/spirits-undernet.png" alt="Spirits of the Undernet">
+    <h2>Spirits of the Undernet</h2>
+    <p>Digital spirits roam the unseen networks, guarding ancient secrets.</p>
+    <a href="https://opensea.io/collection/spirits-of-the-undernet" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/lord-of-machine.png" alt="Lord of Machine Temple">
+    <h2>Lord of Machine Temple</h2>
+    <p>Where machines and divinity merge in a temple of futuristic power.</p>
+    <a href="https://opensea.io/collection/lord-of-machine-temple" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/veil-queens.png" alt="Veil of the Forbidden Queens">
+    <h2>Veil of the Forbidden Queens</h2>
+    <p>The hidden queens of Egypt shroud their power in digital mystery.</p>
+    <a href="https://opensea.io/collection/veil-of-the-forbidden-queens" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/quantum-pantheon.png" alt="Quantum Pantheon: The Neo Deities of Kemet">
+    <h2>Quantum Pantheon: The Neo Deities of Kemet</h2>
+    <p>Ancient gods resurrected in a digital quantum realm.</p>
+    <a href="https://opensea.io/collection/quantum-pantheon-the-neo-deities-of-kemet" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/hhh.png" alt="HHH 91301524">
+    <h2>HHH 91301524</h2>
+    <p>A cryptic collection merging art, code, and digital legacy.</p>
+    <a href="https://opensea.io/collection/hhh-91301524" target="_blank">View Collection</a>
+  </div>
+
+  <div class="card">
+    <img src="assets/eternal-legends.png" alt="Eternal Legends: Digital Ascension">
+    <h2>Eternal Legends: Digital Ascension</h2>
+    <p>Legendary figures ascend into digital eternity, immortalized in art.</p>
+    <a href="https://opensea.io/collection/eternal-legends-digital-ascension" target="_blank">View Collection</a>
+  </div>
+
+</div>
+
+</body>
+</html>
